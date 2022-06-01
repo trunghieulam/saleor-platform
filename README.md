@@ -1,3 +1,5 @@
+For HN store in VN
+
 # saleor-platform
 All Saleor services started from a single repository
 

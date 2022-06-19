@@ -30,7 +30,7 @@ services:
       - JAEGER_AGENT_HOST=jaeger
       - STOREFRONT_URL=https://hn-ecommerce.lamtrunghieu.com/
       - DASHBOARD_URL=https://hn-dashboard.lamtrunghieu.com/
-      - ALLOWED_HOSTS=localhost,api
+      - ALLOWED_HOSTS=localhost,api,.lamtrunghieu.com
 
   react-storefront:
     build:
